@@ -95,10 +95,11 @@ This project is a complete **Multi-Agent/Agentic AI system** built using **LangC
 ```bash
 # Clone the repository
 git clone https://github.com/imayushthakur/Medora.git
-cd healthcare_agentic_system
 
 # Install dependencies
 pip install -r requirements.txt
+
+cd steamlit_app
 
 # Run the app
 streamlit run app/streamlit_app.py
