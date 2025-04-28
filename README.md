@@ -99,7 +99,7 @@ git clone https://github.com/imayushthakur/Medora.git
 # Install dependencies
 pip install -r requirements.txt
 
-cd steamlit_app
+cd streamlit_app
 
 # Run the app
 streamlit run app/streamlit_app.py
