@@ -94,7 +94,7 @@ This project is a complete **Multi-Agent/Agentic AI system** built using **LangC
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/healthcare_agentic_system.git
+git clone https://github.com/imayushthakur/Medora.git
 cd healthcare_agentic_system
 
 # Install dependencies
