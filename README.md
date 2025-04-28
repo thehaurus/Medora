@@ -16,7 +16,7 @@ At its core, the system uses a LangGraph-based multi-agent architecture where ea
 
 ## 📄 Sample Input
 
-https://github.com/imayushthakur/Medora/blob/main/health_2.PNG?raw=true
+![image alt](https://github.com/imayushthakur/Medora/blob/main/health_2.PNG?raw=true)
 
 ## 📄 Sample Output
 
